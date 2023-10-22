@@ -6,11 +6,11 @@ const Navbar = () => {
         <div className='flex items-center space-x-8'>
             <img src="/logo.png" alt="" className='w-8 h-8 object-cover' />
             <ul className='hidden md:flex space-x-8 items-center'>
-                <li>Vectors</li>
-                <li>Photos</li>
-                <li>PSD</li>
-                <li>Video</li>
-                <li>More</li>
+                <li>Plants</li>
+                <li>Gellary</li>
+                <li>Shop</li>
+                <li>Servoces</li>
+                <li>Accesories</li>
             </ul>
         </div>
         <div className='flex items-center space-x-5'>

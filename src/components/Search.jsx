@@ -8,7 +8,7 @@ const Search = () => {
         <select name="" id="" className='border p-1 rounded-md'>
             <option value="">Videos</option>
         </select>
-        <input type="text" name="" id="" placeholder='Search Videos' className='outline-0'/>
+        <input type="text" name="" id="" placeholder='Search Plant' className='outline-0'/>
         </div>
         <img src="/search.png" alt="" className='w-4 h-4'/>
 

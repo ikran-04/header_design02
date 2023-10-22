@@ -10,7 +10,7 @@ function App() {
     <div className="w-11/12 md:w-4/5 m-auto">
     <Navbar/>
     <div className="md:w-3/5 xl:w-1/3 m-auto text-center space-y-2 my-10">
-      <h1 className="text-4xl font-semibold">Popular Pro Stock Vectors</h1>
+      <h1 className="text-4xl font-semibold">Find The Perfect Plant</h1>
       <p className="text-sm text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati nihil consectetur, necessitatibus</p>
 
     <Search/>

@@ -7,10 +7,10 @@ const Footer = () => {
 
         <p className='underline  font-semibold'>Discover <br/> All Collections</p>
         <div className='relative flex px-5'>
-            <img src="/image1.svg" alt="" className='w-12 h-12 relative border-2 border-white ' />
-            <img src="/image3.svg" alt="" className='w-12 h-12 absolute ml-8 border-2 border-white' />
-            <img src="/image1.svg" alt="" className='w-12 h-12 absolute ml-12 border-2 border-white' />
-            <img src="/image2.svg" alt="" className='w-12 h-12 absolute ml-16 border-2 border-white' />
+            <img src="/image1.svg" alt="" className='w-12 h-12 relative border-4 border-white ' />
+            <img src="/image3.svg" alt="" className='w-12 h-12 absolute ml-4 border-4 border-white' />
+            <img src="/image1.svg" alt="" className='w-12 h-12 absolute ml-8 border-4 border-white' />
+            <img src="/image2.svg" alt="" className='w-12 h-12 absolute ml-12 border-4 border-white' />
         </div>
         </div>
         <div>
